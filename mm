@@ -5,5 +5,5 @@ c = lalalla
 g = ksld
 
 e = ksldjfasldjflasdgdznv,.cxzxnvkddslgasdf
-s;adljg;lsajdg;lsadng
+s;adljg;lsaj
 
